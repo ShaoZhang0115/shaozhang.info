@@ -8,6 +8,7 @@ interests:
   - Game Design
   - Human-AI Interaction
   - Data Visualization
+  - Digital Humanity
 social:
   - icon: envelope
     icon_pack: fas

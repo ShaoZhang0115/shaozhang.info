@@ -1,7 +1,7 @@
 ---
 title: Shao ZHANG
 role: Research Assitant
-avatar_filename: sz.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Game Design, Human-AI Interaction and Data
   Visualization.
 interests:

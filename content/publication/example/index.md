@@ -35,7 +35,7 @@ summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: VINCI 2019
-url_source: ""
+url_source: "https://dl.acm.org/doi/10.1145/3356422.3356441"
 url_video: ""
 title: Keyword Analysis Visualization for Chinese Historical Texts
 doi: https://doi.org/10.1145/3356422.3356441
@@ -49,7 +49,7 @@ image:
   preview_only: false
 date: 2019-09-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2019-09-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---

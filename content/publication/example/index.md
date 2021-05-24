@@ -34,13 +34,14 @@ publication: In Proceedings of the 12th International Symposium on Visual
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: VINCI 2019
 url_source: ""
 url_video: ""
 title: Keyword Analysis Visualization for Chinese Historical Texts
 doi: https://doi.org/10.1145/3356422.3356441
 featured: true
-tags: []
+tags:
+  - Data Visualization
 projects: []
 image:
   caption: ""

@@ -27,8 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Game Design
+    tag: Game Design
+  - name: Data Visualization
+    tag: Data Visualization
+  - name: Human-AI Interaction
+    tag: Human-AI Interaction
   - name: Other
     tag: Demo
 

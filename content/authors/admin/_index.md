@@ -18,7 +18,7 @@ social:
     link: https://github.com/shaozhang0115
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/shangzhang0115
+    link: www.linkedin.com/in/shaozhangalice0115
 organizations:
   - name: Shanghai Jiao Tong University
     url: ""

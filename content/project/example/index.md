@@ -10,11 +10,7 @@ url_slides: ""
 subtitle: Master‘s Final Year Project
 tags:
   - Game Design
-links:
-  - icon: ""
-    icon_pack: null
-    name: Taptap
-    url: https://www.taptap.com/app/197032
+links: []
 image:
   caption: ""
   focal_point: ""

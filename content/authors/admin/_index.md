@@ -2,7 +2,7 @@
 title: Shao ZHANG
 role: Ph.D. Student
 avatar_filename: avatar.jpg
-bio: My research interests include Human-AI Collaboration, Game Design and HCI4AI.
+bio: ""
 interests:
   - Human-AI Interaction
   - Game Design
@@ -19,7 +19,7 @@ social:
     link: www.linkedin.com/in/shaozhangalice0115
 organizations:
   - name: Shanghai Jiao Tong University
-    url: "https://www.sjtu.edu.cn/"
+    url: https://www.sjtu.edu.cn/
 education:
   courses:
     - course: MSc in Multimedia and Entertainment Technology

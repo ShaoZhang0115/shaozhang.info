@@ -13,8 +13,6 @@ content:
       tag: "*"
     - name: Game Design
       tag: Game Design
-    - name: Data Visualization
-      tag: Data Visualization
     - name: Human-AI Interaction
       tag: Human-AI Interaction
     - name: Other

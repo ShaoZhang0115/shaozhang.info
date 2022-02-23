@@ -1,13 +1,27 @@
----
-widget: Content Feed
-widget_id: Content Feed
-headless: true
-weight: 65
-title: Publications
-active: true
+widget: pages
+headless: true  # This file represents a page section.
+
+# ... Put Your Section Options Here (title etc.) ...
+
+content:
+  # Filter content to display
+  filters:
+    folders:
+      - publication
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 10
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order. Descending (desc) or ascending (asc) date.
+  order: desc
 design:
-  columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
----
+  # Toggle between the various page layout types. 
+  view: compact
+  columns: '2'

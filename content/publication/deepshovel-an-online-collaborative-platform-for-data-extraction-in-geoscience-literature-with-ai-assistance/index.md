@@ -10,7 +10,7 @@ authors:
   - Ying Wen
   - Dakuo Wang
   - Xinbing Wang
-publication: arXiv
+publication: arXiv Preprint
 abstract: Geoscientists, as well as researchers in many fields, need to read a
   huge amount of literature to locate, extract, and aggregate relevant results
   and data to enable future research or to build a scientific database, but

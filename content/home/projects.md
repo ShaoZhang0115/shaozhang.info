@@ -13,8 +13,8 @@ content:
       tag: "*"
     - name: Game Design
       tag: Game Design
-    - name: Human-AI Interaction
-      tag: Human-AI Interaction
+    - name: Human-AI Collaboration
+      tag: Human-AI Collaboration
     - name: Other
       tag: Demo
 design:

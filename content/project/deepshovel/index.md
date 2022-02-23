@@ -6,7 +6,7 @@ draft: false
 tags:
   - Human-AI Collaboration
 featured: false
-external_link: deepshovel.net
+external_link: https://www.deepshovel.net
 image:
   filename: featured
   focal_point: Smart

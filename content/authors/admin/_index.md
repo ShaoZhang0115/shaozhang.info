@@ -2,13 +2,11 @@
 title: Shao ZHANG
 role: EngD Student
 avatar_filename: avatar.jpg
-bio: My research interests include Game Design, Human-AI Interaction and Data
-  Visualization.
+bio: My research interests include Human-AI Collaboration, Game Design and HCI4AI.
 interests:
-  - Game Design
   - Human-AI Interaction
-  - Data Visualization
-  - Digital Humanity
+  - Game Design
+  - HCI4AI
 social:
   - icon: envelope
     icon_pack: fas

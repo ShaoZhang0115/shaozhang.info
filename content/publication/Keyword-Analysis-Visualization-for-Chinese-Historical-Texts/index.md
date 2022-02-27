@@ -1,7 +1,7 @@
 ---
 title: "Keyword Analysis Visualization for Chinese Historical Texts"
 publication_types:
-  - "2"
+  - "1"
 authors:
   - Jihui Zeng
   - Beibei Zhan0

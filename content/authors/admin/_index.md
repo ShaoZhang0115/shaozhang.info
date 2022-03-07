@@ -22,6 +22,9 @@ organizations:
     url: https://www.sjtu.edu.cn/
 education:
   courses:
+    - course: Ph.D.
+      institution: Shanghai Jiao Tong University
+      year: 2021 - current
     - course: MSc in Multimedia and Entertainment Technology
       institution: The Hong Kong Polytechnic University
       year: 2020
@@ -32,4 +35,4 @@ email: shaozhang@sjtu.edu.cn
 superuser: true
 highlight_name: true
 ---
-Shao ZHANG is a first-year Ph.D. student at Shanghai Jiao Tong University, supervised by [Prof. Xinbing WANG](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Prof. Ying WEN](https://yingwen.io/). She obtained her MSc in Multimedia and Entertainment Technology (Game Development stream) from [School of Design, The Hong Kong Polytechnic University](https://www.sd.polyu.edu.hk/en/) in 2020. Before that, Shao earned her B.Eng in Industrial Design from [School of Design, Hunan University](http://design.hnu.edu.cn/) in 2019. During her undergraduate study, she was a member of [XiaoLab](http://xiaolab.net/) and supervised by [Prof. Sheng XIAO](http://xiaolab.net/) and [Prof. Beibei ZHAN](http://ylsy.hnu.edu.cn/info/1209/5571.htm).
+Shao ZHANG is currently a Ph.D. student in Shanghai Jiao Tong University, supervised by [Prof. Xinbing WANG](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Prof. Ying WEN](https://yingwen.io/). She obtained her MSc in Multimedia and Entertainment Technology (Game Development stream) from [School of Design, The Hong Kong Polytechnic University](https://www.sd.polyu.edu.hk/en/) in 2020. Before that, Shao earned her B.Eng in Industrial Design from [School of Design, Hunan University](http://design.hnu.edu.cn/) in 2019. During her undergraduate study, she was a member of [XiaoLab](http://xiaolab.net/) and supervised by [Prof. Sheng XIAO](http://xiaolab.net/) and [Prof. Beibei ZHAN](http://ylsy.hnu.edu.cn/info/1209/5571.htm).

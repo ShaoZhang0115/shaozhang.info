@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Jihui Zeng
-  - Beibei Zhan0
+  - Beibei Zhan
   - Shao Zhang
   - Jiajun Bie
   - Sheng Xiao

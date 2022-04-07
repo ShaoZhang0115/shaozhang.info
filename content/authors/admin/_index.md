@@ -17,7 +17,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/shaozhangalice0115
-  - icon_pack: ai
+  - icon_pack: fab
     icon: googlescholar
     link: https://scholar.google.com/citations?user=UG36L2YAAAAJ&hl=en
 organizations:

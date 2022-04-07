@@ -1,7 +1,7 @@
 ---
 title: "DeepShovel: An Online Collaborative Platform for Data Extraction in Geoscience Literature with AI Assistance"
 publication_types:
-  - "6"
+  - "3"
 authors:
   - Shao Zhang
   - Yuting Jia

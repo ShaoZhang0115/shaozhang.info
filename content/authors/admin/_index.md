@@ -17,14 +17,19 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/shaozhangalice0115
+  - display:
+      header: false
+    icon_pack: ai
+    icon: googlescholar
+    link: https://scholar.google.com/citations?user=UG36L2YAAAAJ&hl=en
 organizations:
   - name: Shanghai Jiao Tong University
     url: https://www.sjtu.edu.cn/
 education:
   courses:
-    - course: Ph.D.
+    - course: Ph.D. Student
       institution: Shanghai Jiao Tong University
-      year: 2021 - current
+      year: ""
     - course: MSc in Multimedia and Entertainment Technology
       institution: The Hong Kong Polytechnic University
       year: 2020

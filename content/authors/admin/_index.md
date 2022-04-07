@@ -4,8 +4,8 @@ role: Ph.D. Student
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Human-AI Interaction
-  - Game Design
+  - Human-AI Collaboration
+  - Game Design & Game AI
   - HCI4AI
 social:
   - icon: envelope

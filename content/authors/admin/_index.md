@@ -17,8 +17,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/shaozhangalice0115
-  - icon_pack: fab
-    icon: googlescholar
+  - icon_pack: ai
+    icon: google-scholar
     link: https://scholar.google.com/citations?user=UG36L2YAAAAJ&hl=en
 organizations:
   - name: Shanghai Jiao Tong University

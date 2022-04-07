@@ -9,7 +9,7 @@ authors:
   - Ying Wen
   - Dakuo Wang
   - Xinbing Wang
-publication: arxiv preprint
+publication: arxiv Preprint 2022
 url_source: "https://arxiv.org/abs/2202.10163"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

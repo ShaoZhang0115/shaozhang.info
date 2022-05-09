@@ -3,7 +3,7 @@ title: "DeepShovel: An Online Collaborative Platform for Data Extraction in Geos
 publication_types:
   - "3"
 authors:
-  - **Shao Zhang**
+  - Shao Zhang
   - Yuting Jia
   - Hui Xu
   - Ying Wen

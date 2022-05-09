@@ -4,11 +4,11 @@ publication_types:
   - "3"
 authors:
   - **Shao Zhang**
-  - [Yuting Jia](https://www.ytjia.xyz/)
-  - [Hui Xu](https://hui-xu.top/)
-  - [Ying Wen](https://yingwen.io/)
-  - [Dakuo Wang](https://www.dakuowang.com/)
-  - [Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/)
+  - Yuting Jia
+  - Hui Xu
+  - Ying Wen
+  - Dakuo Wang
+  - Xinbing Wang
 publication: arxiv Preprint 2022
 url_source: "https://arxiv.org/abs/2202.10163"
 # Featured image

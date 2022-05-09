@@ -27,5 +27,9 @@ Shao ZHANG is currently a Ph.D. student at Shanghai Jiao Tong University, superv
 
 Shao's research interests include human-ai collaboration, HCI4AI and game ai. Specifically, she is now focusing on human-in-the-loop data annotation and human-ai co-play in game. As a member of [Acemap Group](https://www.acemap.info/), she also pays attention to data art and data visualization for academic big data.
 
+
+
+
+
 ## Recent News
 - [05/22] Our paper “Investigating the Geometric Structure of Neural Activation Spaces with Convex Hull Approximations” gets accepted in NeuroComputing.

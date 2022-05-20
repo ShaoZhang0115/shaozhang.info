@@ -1,6 +1,5 @@
 ---
-title: "Investigating the geometric structure of neural activation spaces with convex hull approximations
-Author links open overlay panel"
+title: "Investigating the geometric structure of neural activation spaces with convex hull approximations"
 publication_types:
   - "2"
 authors:

@@ -11,7 +11,7 @@ authors:
   - Huan Long
   - Xinbing Wang
   - Chenghu Zhou
-publication: 
+publication: Neurocomputing
 url_source: "https://doi.org/10.1016/j.neucom.2022.05.019"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
